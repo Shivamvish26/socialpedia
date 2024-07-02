@@ -13,3 +13,8 @@ Home Page with Dark Mode Section
 Profile Section
 ![Screenshot (12)](https://github.com/Shivamvish26/socialpedia/assets/127945668/823d729c-6896-4de4-9595-52f17647489b)
 
+This project is developed using React.js for the front end and MongoDB for the back end. 
+Ensure that you have Node.js set up to run this project. 
+When cloning the project, make sure you have installed the node modules for both the front end and the back end.
+To install the node module you can run the command: - npm i for both front end and back end.
+Then, after completing the setup, you can run the following commands: For the front end, use "npm start", and for the back end, use "nodemon index.js".
