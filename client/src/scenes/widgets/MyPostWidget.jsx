@@ -24,6 +24,7 @@ import WidgetWrapper from "components/WidgetWrapper";
 import { useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { setPosts } from "state";
+import { toast } from "react-toastify"; // Import toast from react-toastify
 
 const MyPostWidget = ({ picturePath }) => {
   const dispatch = useDispatch();
@@ -55,6 +56,7 @@ const MyPostWidget = ({ picturePath }) => {
     dispatch(setPosts({ posts }));
     setImage(null);
     setPost("");
+    toast.success("Post added to your Profile!"); 
   };
 
   return (
