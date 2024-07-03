@@ -1,17 +1,21 @@
 Login Page
-![Screenshot (8)](https://github.com/Shivamvish26/socialpedia/assets/127945668/26c60c50-b852-4941-9af2-2edbb96e2aca)
+![Screenshot (14)](https://github.com/Shivamvish26/socialpedia/assets/127945668/3cd75922-fce5-480a-afb3-df37a622b00f)
+
 
 Register Page
-![Screenshot (9)](https://github.com/Shivamvish26/socialpedia/assets/127945668/3df348b1-8dc3-4273-b40a-410b2225dd30)
+![Screenshot (18)](https://github.com/Shivamvish26/socialpedia/assets/127945668/c4a7931d-5541-488a-995b-28e1090251ec)
+
 
 Home Page
-![Screenshot (10)](https://github.com/Shivamvish26/socialpedia/assets/127945668/ef904fd8-97dc-4e80-ab07-7f010212aba0)
+![Screenshot (16)](https://github.com/Shivamvish26/socialpedia/assets/127945668/057dc3b3-c36d-4f98-8cd7-a6dea766474e)
+
 
 Home Page with Dark Mode Section
-![Screenshot (11)](https://github.com/Shivamvish26/socialpedia/assets/127945668/6f53bdab-cf61-44a9-af7d-b5899c67e780)
+![Screenshot (15)](https://github.com/Shivamvish26/socialpedia/assets/127945668/cccd3d5b-d119-4753-b356-6cf95f012bc7)
 
 Profile Section
-![Screenshot (12)](https://github.com/Shivamvish26/socialpedia/assets/127945668/823d729c-6896-4de4-9595-52f17647489b)
+![Screenshot (17)](https://github.com/Shivamvish26/socialpedia/assets/127945668/c7f1ca7a-d5fd-4b89-bf1b-a308e38a22a0)
+
 
 This project is developed using React.js for the front end and MongoDB for the back end. 
 Ensure that you have Node.js set up to run this project. 
